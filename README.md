@@ -2,6 +2,7 @@
 
 <ul>
   <li>Jawaban No 1 Pada File <b>Jawaban_No1_Biodata.php</b> </li>
+  <li>Jawaban No 2 Pada File <b>Jawaban_No2_Validasi.php</b></li>
   <li>Jawaban No 3 Pada File <b>Jawaban_No3_Cari_Kata.php</b> </li>
   <li>Jawaban No 4 Pada File <b>Jawaban_No4_Gambar.php</b> </li>
   <li>Jawaban No 5 Pada File <b>Jawaban_No5_Random_Karakter.php</b> </li>
