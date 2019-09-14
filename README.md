@@ -1,7 +1,9 @@
-# Jawaban BootCamp Arkademy
+  Jawaban BootCamp Arkademy
 
 <ul>
-  <li>Jawaban No 1 Pada File <b>Jawaban_No1_Biodata.php</b> </li>
+  <li>Jawaban No 1 Pada File <b>Jawaban_No1_Biodata.php</b><br>
+  <p>JSON (JavaScript Object Notation) adalah sebuah format data yang digunakan untuk pertukaran dan penyimpanan data pada REST API</p>
+  </li>
   <li>Jawaban No 2 Pada File <b>Jawaban_No2_Validasi.php</b></li>
   <li>Jawaban No 3 Pada File <b>Jawaban_No3_Cari_Kata.php</b> </li>
   <li>Jawaban No 4 Pada File <b>Jawaban_No4_Gambar.php</b> </li>
