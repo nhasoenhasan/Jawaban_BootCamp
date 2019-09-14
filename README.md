@@ -1,5 +1,10 @@
-  Jawaban BootCamp Arkademy
-
+<h1>Jawaban BootCamp </h1>
+<h3>Teknologi Yang Di Gunakan</h3>
+<ul>
+  <li>Xampp</li>
+  <li>Database: Mysql</li>
+  <li>No 6: Framework Codeigniter</li>
+</ul>
 <ul>
   <li>Jawaban No 1 Pada File <b>Jawaban_No1_Biodata.php</b><br>
   <p>JSON (JavaScript Object Notation) adalah sebuah format data yang digunakan untuk pertukaran dan penyimpanan data pada REST API</p>
