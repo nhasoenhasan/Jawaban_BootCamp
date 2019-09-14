@@ -25,6 +25,9 @@
         <li><b>DELETE</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/DELETE.png"></li>
         </ul>
       </li>
+      <li>CRUD<br>
+        <img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/CRUD.gif">
+      </li>
     </ul> 
   </li>
   
