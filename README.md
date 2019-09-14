@@ -10,10 +10,12 @@
       <li></b><b>Query</b>(SELECT nama.name,work.nama,category.salary FROM nama INNER JOIN category ON  nama.id_salary=category.id_salary INNER JOIN work ON nama.id_work=work.id_work")
       </li>
       <li>
-        <b>HOME</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/Home.png">
-        <b>ADD</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/ADD.png">
-        <b>EDIT</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/EDIT.png">
-        <b>DELETE</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/DELETE.png">
+        <ul>
+        <li><b>HOME</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/Home.png"></li>
+        <li><b>ADD</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/ADD.png"></li>
+        <li><b>EDIT</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/EDIT.png"></li>
+        <li><b>DELETE</b><img src="https://raw.githubusercontent.com/nhasoenhasan/Jawaban_BootCamp/master/Screenshot/DELETE.png"></li>
+        </ul>
       </li>
     </ul> 
   </li>
