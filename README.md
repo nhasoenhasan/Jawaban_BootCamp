@@ -4,6 +4,7 @@
   <li>Xampp</li>
   <li>Database: Mysql</li>
   <li>No 6: Framework Codeigniter</li>
+  <li>Pastikan Tersambung Internet Agar Icon Pada Soal No 6 Muncul</li>
 </ul>
 <ul>
   <li>Jawaban No 1 Pada File <b>Jawaban_No1_Biodata.php</b><br>
